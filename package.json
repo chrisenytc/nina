@@ -1,7 +1,7 @@
 {
   "name": "nina",
   "description": "An AuthKey Generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/chrisenytc/nina",
   "author": {
     "name": "Christopher EnyTC",
@@ -29,7 +29,7 @@
     "test": "grunt nodeunit"
   },
   "dependencies": {
-    "livia-algorithm": "~0.1.1",
+    "livia-algorithm": "~0.1.2",
     "underscore": "~1.5.2"
   },
   "devDependencies": {
